@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Architecture Landing Page by Asrafil
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Designed by @asrafilll with Figma
 
 ## Available Scripts
 
